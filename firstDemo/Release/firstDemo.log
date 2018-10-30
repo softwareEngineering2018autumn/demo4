@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\wxy\desktop\firstdemo\main.cpp(33): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\wxy\desktop\firstdemo\main.cpp(173): warning C4244: “=”: 从“float”转换到“GByte”，可能丢失数据
+c:\users\wxy\desktop\firstdemo\main.cpp(139): warning C4101: “k”: 未引用的局部变量
+c:\users\wxy\desktop\firstdemo\main.cpp(140): warning C4101: “J”: 未引用的局部变量
+    正在创建库 C:\Users\wxy\Desktop\firstDemo\Release\firstDemo.lib 和对象 C:\Users\wxy\Desktop\firstDemo\Release\firstDemo.exp
+  正在生成代码
+  1 of 449 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  firstDemo.vcxproj -> C:\Users\wxy\Desktop\firstDemo\Release\firstDemo.exe
